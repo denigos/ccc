@@ -1,0 +1,14 @@
+/Users/denisgrigorev/Desktop/Git/C#/Example004/bin/Debug/net7.0/Example004
+/Users/denisgrigorev/Desktop/Git/C#/Example004/bin/Debug/net7.0/Example004.deps.json
+/Users/denisgrigorev/Desktop/Git/C#/Example004/bin/Debug/net7.0/Example004.runtimeconfig.json
+/Users/denisgrigorev/Desktop/Git/C#/Example004/bin/Debug/net7.0/Example004.dll
+/Users/denisgrigorev/Desktop/Git/C#/Example004/bin/Debug/net7.0/Example004.pdb
+/Users/denisgrigorev/Desktop/Git/C#/Example004/obj/Debug/net7.0/Example004.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denisgrigorev/Desktop/Git/C#/Example004/obj/Debug/net7.0/Example004.AssemblyInfoInputs.cache
+/Users/denisgrigorev/Desktop/Git/C#/Example004/obj/Debug/net7.0/Example004.AssemblyInfo.cs
+/Users/denisgrigorev/Desktop/Git/C#/Example004/obj/Debug/net7.0/Example004.csproj.CoreCompileInputs.cache
+/Users/denisgrigorev/Desktop/Git/C#/Example004/obj/Debug/net7.0/Example004.dll
+/Users/denisgrigorev/Desktop/Git/C#/Example004/obj/Debug/net7.0/refint/Example004.dll
+/Users/denisgrigorev/Desktop/Git/C#/Example004/obj/Debug/net7.0/Example004.pdb
+/Users/denisgrigorev/Desktop/Git/C#/Example004/obj/Debug/net7.0/Example004.genruntimeconfig.cache
+/Users/denisgrigorev/Desktop/Git/C#/Example004/obj/Debug/net7.0/ref/Example004.dll
